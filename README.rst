@@ -1,7 +1,8 @@
 ========================
-Elliptic Curve secp256k1    [![Build Status](https://travis-ci.com/AdityaMahaddalkar/Bitcoin-ECC.svg?branch=master)](https://travis-ci.com/AdityaMahaddalkar/Bitcoin-ECC)
+Elliptic Curve secp256k1
 ========================
 
+[![Build Status](https://travis-ci.com/AdityaMahaddalkar/Bitcoin-ECC.svg?branch=master)](https://travis-ci.com/AdityaMahaddalkar/Bitcoin-ECC)
 
 Elliptic curve cryptography implementation using secp256k1 standard (Bitcoin standard)
 
