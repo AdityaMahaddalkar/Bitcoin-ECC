@@ -5,4 +5,4 @@ History
 0.1.0 (2020-04-20)
 ------------------
 
-* First release on PyPI.
+* Version is in development.
