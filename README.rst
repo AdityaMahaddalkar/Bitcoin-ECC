@@ -1,5 +1,5 @@
 ========================
-Elliptic Curve secp256k1
+Elliptic Curve secp256k1    [![Build Status](https://travis-ci.com/AdityaMahaddalkar/Bitcoin-ECC.svg?branch=master)](https://travis-ci.com/AdityaMahaddalkar/Bitcoin-ECC)
 ========================
 
 
